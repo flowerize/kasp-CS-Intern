@@ -36,7 +36,10 @@
 -d '{"id":"task-1"}'
 
 ## Контакты
-Выполнил Цветков Денис 
+Выполнил Цветков Денис  
+
 tg: @getroses
+
 mail: tsvetkovdenis44@gmail.com
+
 github:https://github.com/flowerize
